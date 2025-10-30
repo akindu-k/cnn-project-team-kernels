@@ -61,27 +61,22 @@ cnn-project-team-kernels/
 │
 ├── code/
 │   ├── Adam - Code/
-│   │   ├── model_adam.py
-│   │   ├── train_adam.py
-│   │   └── evaluate_adam.py
+│   │   ├── CNN_Adam.ipynb
 │   │
 │   ├── SGD - Code/
-│   │   ├── model_sgd.py
-│   │   └── train_sgd.py
+│   │   ├── CNN_Standard_SGD.ipynb
 │   │
 │   ├── SGD with Momentum - Code/
-│   │   ├── model_sgdm.py
-│   │   └── train_sgdm.py
+│   │   ├── CNN_SGD_Momentum.ipynb
 │   │
 │   └── Transfer Learning - Code/
-│       ├── resnet18_transfer.py
-│       └── vgg16_transfer.py
+│       ├── transfer_learning_models.ipynb
 │
 └── report/
     ├── Adam/
     ├── SGD/
     ├── SGD + Momentum/
-    └── Transfer Learning/
+    
 ```
 
 * **code/** → Contains all implementation scripts for CNNs trained with different optimizers and transfer learning.
