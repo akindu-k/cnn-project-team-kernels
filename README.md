@@ -171,7 +171,7 @@ cnn-project-team-kernels/
 
 ## 📅 Instructor
 **Dr. Sampath K. Perera**  
-Department of Electrical Engineering  
+Department of Electronic and Telecommunication Engineering  
 University of Moratuwa  
 *September 17, 2025*
 
