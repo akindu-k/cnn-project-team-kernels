@@ -1,19 +1,34 @@
-# CNN Project - Team Kernels
+# 🧠 CNN Project - Team Kernels
 
 ## 📘 Module: EN3150 Pattern Recognition  
 **Assignment 03: Simple Convolutional Neural Network for Image Classification**
 
 ---
 
-## 🧠 Project Overview
-This project focuses on designing, training, and evaluating Convolutional Neural Networks (CNNs) for image classification tasks.  
+## 🧾 Project Overview
+This project focuses on designing, training, and evaluating Convolutional Neural Networks (CNNs) for image classification tasks using the **MNIST Handwritten Digit Recognition dataset**.  
 It explores different optimization algorithms and transfer learning techniques to analyze their effects on model performance.
 
 The assignment involves:
 - Building a simple CNN architecture from scratch.
 - Experimenting with various optimizers (SGD, SGD with Momentum, Adam).
-- Fine-tuning a pre-trained model using **Transfer Learning**.
+- Fine-tuning pre-trained models using **Transfer Learning**.
 - Comparing performance metrics across models.
+
+---
+
+## 🧮 Dataset Information
+### **Dataset:** MNIST Handwritten Digit Recognition  
+- **Source:** [Yann LeCun’s MNIST Database](http://yann.lecun.com/exdb/mnist/)  
+- **Classes:** 10 (Digits 0–9)  
+- **Total Images:** 70,000 (60,000 for training, 10,000 for testing)  
+- **Image Size:** 28×28 pixels, grayscale  
+- **Split Used:**
+  - 70% Training  
+  - 15% Validation  
+  - 15% Testing  
+
+This dataset is widely used as a benchmark for testing image classification algorithms and neural network architectures.
 
 ---
 
@@ -134,13 +149,13 @@ cnn-project-team-kernels/
 
 ---
 
-## 📈 Results Summary (to be updated after report completion)
-| Optimizer | Validation Accuracy | Test Accuracy | Notes |
+## 📈 Results Summary 
+| Optimizer | Validation Accuracy | Train Accuracy | Notes |
 |------------|--------------------|----------------|-------|
-| SGD | – | – | – |
-| SGD + Momentum | – | – | – |
-| Adam | – | – | – |
-| Transfer Learning (VGG16/ResNet18) | – | – | – |
+| SGD | 98.57% | 98.05% | learning rate = 1e-2 |
+| SGD + Momentum | 99.01% | 99.50% | learning rate = 1e-2, momentum = 0.9 |
+| Adam | 98.51% | 98.21% | learning rate = 1e-3 |
+
 
 ---
 
@@ -155,7 +170,7 @@ cnn-project-team-kernels/
 ---
 
 ## 📅 Instructor
-**Sampath K. Perera**  
+**Dr. Sampath K. Perera**  
 Department of Electrical Engineering  
 University of Moratuwa  
 *September 17, 2025*
