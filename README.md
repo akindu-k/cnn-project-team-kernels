@@ -154,7 +154,7 @@ cnn-project-team-kernels/
 |------------|--------------------|----------------|-------|
 | SGD | 98.57% | 98.05% | learning rate = 1e-2 |
 | SGD + Momentum | 99.01% | 99.50% | learning rate = 1e-2, momentum = 0.9 |
-| Adam | 98.51% | 98.21% | learning rate = 1e-3 |
+| Adam | 99.10% | 98.21% | learning rate = 1e-3 |
 
 
 ---
