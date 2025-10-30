@@ -26,7 +26,7 @@ The assignment involves:
 🔗 [MNIST Flask App on Render](https://mnist-flask-app-ef8w.onrender.com/)
 
 ▶️ **Demo Video:**
-{yt link}
+🔗 [Watch on YouTube](https://youtu.be/iCB3fTPAtTA?si=CnL3sSvZhkcejT_C)
 
 💻 **Repository for Deployment:**
 🔗 [mnist-flask-app Repository](https://github.com/akindu-k/mnist-flask-app.git)
