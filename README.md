@@ -28,6 +28,10 @@ The assignment involves:
 ▶️ **Demo Video:**
 🔗 [Watch on YouTube](https://youtu.be/iCB3fTPAtTA?si=CnL3sSvZhkcejT_C)
 
+[![Watch the demo on YouTube](https://img.youtube.com/vi/iCB3fTPAtTA/0.jpg)](https://www.youtube.com/watch?v=iCB3fTPAtTA)
+
+> Click the thumbnail above to watch the demo video on YouTube.
+
 💻 **Repository for Deployment:**
 🔗 [mnist-flask-app Repository](https://github.com/akindu-k/mnist-flask-app.git)
 
