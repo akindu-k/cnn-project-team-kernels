@@ -31,7 +31,7 @@ The assignment involves:
 💻 **Repository for Deployment:**
 🔗 [mnist-flask-app Repository](https://github.com/akindu-k/mnist-flask-app.git)
 
-This web application allows users to **draw a digit (0–9)** on a canvas and receive **real-time classification predictions** powered by the trained Adam optimizer CNN model.
+This web application allows users to upload a grayscale image of a handwritten digit (0-9) and receive **real-time classification predictions** powered by the trained Adam optimizer CNN model.
 It was built using **Flask** for the backend and **PyTorch** for inference.
 
 ---
